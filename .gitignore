@@ -50,3 +50,5 @@ printnumbers
 factorial
 sorting
 sortstack
+delete_middle_of_stack
+reverse_a_stack
